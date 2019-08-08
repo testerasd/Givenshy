@@ -1,0 +1,6 @@
+owner=441604086270525440
+prefix=Gi
+game=Gi Help
+stayinchannel=true
+songinstatus=false
+token=NjA5MDA0MDQ1MDEyNTY2MDM2.XUwZPw.tKvFxyOV0qi9lCG0627Y5yu69o4
